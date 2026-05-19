@@ -1,4 +1,4 @@
-# Hi, I'm Aryan! 👋
+# Hi, I'm Arian! 👋
 ### Python Developer & Tech Enthusiast 
 
 I am a passionate Python beginner who loves the art of coding and building new things. I enjoy exploring technology and solving problems through clean, efficient code. For me, every project is an opportunity to learn something new.
